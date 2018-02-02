@@ -1,6 +1,6 @@
 # Security rules for files access restriction in prestashop using nginx
 
-THESE RULES WORKS ON PRESTASHOP 1.6
+THIS RULES WORKS ON PRESTASHOP 1.6
 
 After a recent migration of website build with Prestashop from apache2 to nginx i'll seen they have missing rules in the documentation of prestashop website.
 
